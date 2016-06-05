@@ -1,0 +1,7 @@
+
+
+1. run npm init
+2. npm install mocha --save-dev (must also be installed globally)
+3. configure package.json (see file)
+3. typings install mocha --global --save
+4. in test folder, add a typscript file with /// <reference path="../typings/globals/mocha/index.d.ts" />
