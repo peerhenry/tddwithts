@@ -1,0 +1,9 @@
+
+
+typings
+gulp
+mocha
+karma
+protractor
+nodemon
+webdriver-manager

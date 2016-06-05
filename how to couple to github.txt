@@ -1,0 +1,8 @@
+
+
+1. click on git icon en then initialize git repo.
+
+2. in command line, run these commands: 
+
+git remote add origin <link to github repo>
+git push -u origin master
