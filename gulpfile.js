@@ -62,5 +62,5 @@ gulp.task('watch', function(){
 });
 
 gulp.task('default', function(){
-    runSequence('compile-ts', 'test', 'karma');  
+    runSequence('compile-ts', 'test', 'karma', 'watch');  
 })
